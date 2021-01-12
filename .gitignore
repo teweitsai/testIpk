@@ -1,0 +1,4 @@
+# Artifacts of ipk files
+*.gz
+*.ipk
+debian-binary
