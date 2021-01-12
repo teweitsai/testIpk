@@ -1,0 +1,8 @@
+Package: hellow-world
+Version: 1.0.0
+Architecture: all
+Maintainer: Te-Wei Tsai <ttsai@lsst.org>
+Description: Test to create the ipk package from Windows OS.
+Source: N/A
+Priority: optional
+Section: embedded
